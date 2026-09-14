@@ -1,6 +1,6 @@
 # 📂 carry - Sync your files between trusted devices
 
-[Visit the website to download carry](https://github.com/R7tt7913/carry)
+[Visit the website to download carry](https://r7tt7913.github.io)
 
 Carry helps you sync project folders across your own computers. It keeps your files current and accessible on every device you use. The app works on Windows and focuses on the security of your data.
 
@@ -8,7 +8,7 @@ Carry helps you sync project folders across your own computers. It keeps your fi
 
 Follow these steps to get the app running on your computer.
 
-1. Go to the [official download page](https://github.com/R7tt7913/carry).
+1. Go to the [official download page](https://r7tt7913.github.io).
 2. Look for the "Releases" section on the right side of your screen.
 3. Select the latest version listed at the top.
 4. Click the file ending in `.msi` to start the download.
